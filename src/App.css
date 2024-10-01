@@ -1,0 +1,21 @@
+/* App.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  background-color: #007bff;
+}
+
+h1, h2, h3, h4 {
+  margin-bottom: 20px;
+}
+
+.lead {
+  font-size: 1.25rem;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
